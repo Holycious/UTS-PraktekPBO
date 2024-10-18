@@ -1,0 +1,7 @@
+/**
+ * komputer
+ */
+public class komputer {
+
+    
+}
